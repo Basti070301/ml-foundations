@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
 #Daten laden
-wage_data = pd.read_csv("Model/linear_regression/Data/Raw/wage_data.csv")
+wage_data = pd.read_csv("Model/01_linear_regression/Data/Raw/wage_data.csv")
 
 # Outputvariable definieren
 y = wage_data["wage"]
