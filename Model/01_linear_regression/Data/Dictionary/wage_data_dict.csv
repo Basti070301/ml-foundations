@@ -1,0 +1,7 @@
+variable,Description
+wage,average hourly earnings
+educ,years of education
+exper,years potential experience
+tenure,years with current employer
+nonwhite,=1 if nonwhite
+female,=1 if female
